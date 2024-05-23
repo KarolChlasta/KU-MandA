@@ -1,1 +1,2 @@
-# KU-MandA
+## KU-MandA
+Let's learn Git.
